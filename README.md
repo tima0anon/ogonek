@@ -23,5 +23,5 @@
 
 ## Публикация
 
-GitHub Pages, ветка `main`, корень репозитория.
-Сайт открывается по адресу `https://tima0anon.github.io/<имя-репозитория>/`.
+Сайт опубликован на GitHub Pages:
+https://tima0anon.github.io/ogonek/
